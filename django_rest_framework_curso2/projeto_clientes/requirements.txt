@@ -1,2 +1,8 @@
 Django==3.1
-djangorestframework==3.11.0
+djangorestframework==3.12.0
+isort
+blue
+django-filter
+Faker
+validate-docbr
+django-filter
