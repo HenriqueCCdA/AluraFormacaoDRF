@@ -1,5 +1,6 @@
 services:
   cache:
+    container_name: redis_cache_drf_alura
     image: redis:7.0.4-alpine
     # restart: no
     ports:
